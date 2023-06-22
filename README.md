@@ -1,4 +1,5 @@
 # Educational User Profile Screen
+![Profile screen flutter](https://github.com/kainatnaeem/Flutter-Profile-Screen/assets/54583829/a515e0c0-fcc3-49cc-bdeb-1fe7833aa3a9)
 
 A new Flutter project.
 
