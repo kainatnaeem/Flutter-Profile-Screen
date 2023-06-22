@@ -1,4 +1,4 @@
-# eduprofileuibyktech
+# Educational User Profile Screen
 
 A new Flutter project.
 
